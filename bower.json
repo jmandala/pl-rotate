@@ -1,0 +1,21 @@
+{
+  "name": "pl-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "Joshua Jacobs <josh@mandala-designs.com>"
+  ],
+  "description": "a simple rotate",
+  "main": "rotate.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ]
+}
